@@ -1,0 +1,72 @@
+import socket
+import time
+import sys
+
+def FCFS():
+    pass
+
+def RR():
+    pass
+
+def SJF():
+    pass
+
+def SRTF():
+    pass
+
+def PRIOc():
+    pass
+
+def PRIOp():
+    pass
+
+def PRIOd():
+    pass
+
+def processo_um():
+    pass
+
+def receive_um():
+    pass
+
+def send_um():
+    pass
+
+def send_notification_um():
+    pass
+
+def processo_dois():
+    pass
+
+def receive_dois():
+    pass
+
+def send_dois():
+    pass
+
+def send_notification_dois():
+    pass
+
+def processo_tres():
+    pass
+
+def receive_tres():
+    pass
+
+def send_tres():
+    pass
+
+def send_notification_tres():
+    pass
+
+def clock():
+    pass
+
+def emissor_de_tarefas():
+    pass
+
+def escalonador_de_tarefas():
+    pass
+
+def main():
+    pass
